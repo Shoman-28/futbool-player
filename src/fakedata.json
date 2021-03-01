@@ -1,0 +1,101 @@
+[
+{
+"id": 1,
+"name": "Frenkie de Jong",
+"image": "https://i.postimg.cc/fR5Wqf48/Frenkie-de-Jong.jpg",
+"club":"Bersalona",
+"salary": 3000
+},
+{
+"id": 2,
+"name": "Riqui Puig",
+"image": "https://i.postimg.cc/8cVBXSMQ/Riqui-Puig.png",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 3,
+"name": "Francisco Antonio",
+"image": "https://i.postimg.cc/FHv1BKYH/Francisco-Antonio.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 4,
+"name": "Oscar Mingueza Garcia",
+"image": "https://i.postimg.cc/Qxfx0qZ0/scar-Mingueza-Garc-a.png",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 5,
+"name": "Sergino Gianni Des",
+"image": "https://i.postimg.cc/TYtggm7X/Sergi-o-Gianni-Des.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 6,
+"name": "Pedri",
+"image": "https://i.postimg.cc/Jnx9MPqF/Pedri.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 7,
+
+"name": "Philippe Coutinho",
+"image": "https://i.postimg.cc/66GmH6sS/Philippe-Coutinhos.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 8,
+"name": "Lionel Mesi",
+"image": "https://i.postimg.cc/G3sF0HmF/mesi.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 9,
+"name": "Ansu Fati",
+"image": "https://i.postimg.cc/MZ0MwR18/Ansu-Fati.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 10,
+"name": "Usman Dembele",
+"image": "https://i.postimg.cc/tJC74vHn/usman-dembel.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 11,
+"name": "Antoine Griezmann",
+"image": "https://i.postimg.cc/8PS110Ny/grij.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 13,
+"name": "Clement Nicolas",
+"club":"Bersalona",
+"image": "https://i.postimg.cc/BvWPsC74/Cl-ment-Nicolas.jpg",
+"salary": 30000
+},
+{
+"id": 14,
+"name": "Mark-Andre Ter Stegen",
+"image": "https://i.postimg.cc/mg1V88Fs/markande.jpg",
+"club":"Bersalona",
+"salary": 30000
+},
+{
+"id": 15,
+"name": "Miralem Pjanic",
+"image": "https://i.postimg.cc/4x87Hg34/Miralem-Pjani.jpg",
+"club":"Bersalona",
+"salary": 30000
+}
+]
