@@ -11,14 +11,15 @@ const Player = (props) => {
 
     return (
         
-        <div className='players'>
-            
+        <div className='players-deteles'>        
             <h4>Player name: {name}</h4>
             <h5>Club name: {club}</h5>       
             <p><small>salary: {salary}</small></p>
             <img src={image} alt=""/>
             <br/>
-            <Button variant="info" onClick={() => handleAddplayer(props.player)}><FontAwesomeIcon icon={faFutbol} />  Add Country</Button>{' '}
+            <Button variant="info" onClick={() => handleAddplayer(props.player)}><FontAwesomeIcon icon={faFutbol} />  Add Country</Button>{' '}           
+                       
+          
         </div>
     );
 };

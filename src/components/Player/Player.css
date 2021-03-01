@@ -1,14 +1,13 @@
 
-
-.players{
-    text-align: center;
-    width: 60%;
+.players-deteles{
     border: 1px solid grey;
-    margin: 10px;
-    padding: 10px;
-
+    margin-bottom: 10px;
+    
 }
-.players img{
+
+
+
+.players-deteles img{
     width: 300px;
     height: 250px;
     margin: 15px 0px;

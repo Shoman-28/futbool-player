@@ -7,7 +7,7 @@ const Cart = (props) => {
     const totalSalary = cart.reduce((sum, salary) => sum + salary.salary, 0)
     return (
         <div>
-            <p>Total salary: {totalSalary}</p>
+            <h4>Total Amount: {totalSalary}</h4>
         </div>
     );
 };

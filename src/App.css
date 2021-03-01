@@ -2,6 +2,27 @@
   text-align: center;
   
 }
+.players{
+
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.left-Content{
+  
+  flex-basis: 65%;
+
+
+
+}
+.right-content{
+  background-color: antiquewhite;
+  flex-basis: 27%;
+
+
+
+}
 .App-link {
   color: #61dafb;
 }
